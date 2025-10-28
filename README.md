@@ -5,3 +5,5 @@ Welcome to yet another intermediary step in my ML learning journey. Here, I'm ef
 Some lighter requirements include learning cross-validation, using Scikit-Learn's `Pipeline` feature for cleaner code, and exploring some of the more simple methods of numeric transformations. More advanced numeric transformations will be explored on a case-by-case basis.
 
 To summarize, I'm preparing for a more thorough linear regression application where I attempt to get the errors as low as I possibly can. A thank you to any viewer who actually inspects the dull contents of this repository. At the end of the day, these really aren't the most exciting topics.
+
+**A note from future Christian:** Apologies for previous Christian's ignorance. He has no idea what feature engineering even really means.
