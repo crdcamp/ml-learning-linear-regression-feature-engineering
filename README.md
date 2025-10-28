@@ -6,4 +6,4 @@ Some lighter requirements include learning cross-validation, using Scikit-Learn'
 
 To summarize, I'm preparing for a more thorough linear regression application where I attempt to get the errors as low as I possibly can. A thank you to any viewer who actually inspects the dull contents of this repository. At the end of the day, these really aren't the most exciting topics.
 
-**A note from future Christian:** Apologies for previous Christian's ignorance. He has no idea what feature engineering even really means.
+**A note from future Christian:** Apologies for previous Christian's ignorance. He has no idea what feature engineering even really means. Also, this repository was cut a bit short as it ended up pretty much reviewing everything I already know.
